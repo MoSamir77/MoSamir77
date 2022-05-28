@@ -3,11 +3,14 @@
 <!<h1 align="center">Hi 👋, I'm Mohamed Samir</h1>
 <h3 align="center">A passionate data analyst</h3>
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&background=08080800&vCenter=true&lines=Welcome+to+my+GitHub++Profile)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosamir77&label=Profile%20views&color=0e75b6&style=flat" alt="mosamir77" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosamir77" alt="mosamir77" /></a> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&background=08080800&vCenter=true&lines=Welcome+to+my+GitHub++Profile)](https://git.io/typing-svg)
+
 
 - 🔭 I’m currently working on [My Portfolio](https://drive.google.com/drive/folders/192cJGX0RXxIrgiW7kfCmMxYAmv1-2m-q)
 
